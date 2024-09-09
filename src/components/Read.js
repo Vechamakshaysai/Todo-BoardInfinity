@@ -31,7 +31,7 @@ function Read() {
         ))}
       </ul>
       <button className="button1" onClick={() => navigate("/updateread")}>
-        GO UPDATE TODO
+         UPDATE - DELETE TODO
       </button>{" "}
       <br />
       <button className="button1" onClick={() => navigate("/")}>
